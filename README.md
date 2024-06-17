@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋 I'm Ahmed Ali
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=ally-ahmed&show_icons=true&theme=dark&bg_color=00000000"
