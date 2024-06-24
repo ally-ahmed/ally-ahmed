@@ -7,7 +7,7 @@
   <img alt="github-snake" src="github-contribution-grid-snake.svg" />
 </picture>
 </div>
-<div align="center" style="display: flex; justify-content: center; gap: 0.25rem;"> 
+<div align="center" style="display: flex; justify-content: center; gap: 0.375rem;"> 
   <a href="https://github.com/ally-ahmed">
       <picture>
         <source
@@ -37,7 +37,7 @@
   </a>
 </div>
   <!-- <img align="center" src="https://streak-stats.demolab.com/?user=ally-ahmed&background=00000000&count_private=true&theme=react&border_radius=10" alt="Streak stats"/> -->
-<div align="center" style="margin-top: 0.5rem;">
+<div align="center" style="margin-top: 0.7rem;">
   <a>
       <picture>
         <source
