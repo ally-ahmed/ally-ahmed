@@ -37,7 +37,8 @@
   </a>
 </div>
   <!-- <img align="center" src="https://streak-stats.demolab.com/?user=ally-ahmed&background=00000000&count_private=true&theme=react&border_radius=10" alt="Streak stats"/> -->
-<div align="center" style="margin-top: 0.7rem;">
+<br />
+<div align="center">
   <a>
       <picture>
         <source
@@ -48,7 +49,7 @@
           srcset="https://streak-stats.demolab.com/?user=ally-ahmed&background=00000000&count_private=true&border_radius=10"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://streak-stats.demolab.com/?user=ally-ahmed&background=00000000&count_private=true&border_radius=10" alt="Streak Stats"/>
+        <img align="center" src="https://streak-stats.demolab.com/?user=ally-ahmed&background=00000000&count_private=true&border_radius=10" alt="Streak Stats"/>
       </picture>
   </a>
 </div>
