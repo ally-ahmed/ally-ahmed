@@ -37,7 +37,7 @@
   </a>
 </div>
   <!-- <img align="center" src="https://streak-stats.demolab.com/?user=ally-ahmed&background=00000000&count_private=true&theme=react&border_radius=10" alt="Streak stats"/> -->
-<div align="center" style="display: flex; justify-content: center; row-gap: 0.375rem; padding: 0.5rem">
+<div align="center" style="margin: 10px">
   <a>
       <picture>
         <source
