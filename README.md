@@ -6,11 +6,10 @@
   <img alt="github-snake" src="github-contribution-grid-snake.svg" />
 </picture>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ally-ahmed">
     <picture>
       <source
-        srcset="https://github-readme-stats-eight-xi-56.vercel.app
-/api?username=ally-ahmed&show_icons=true&theme=dark&bg_color=00000000"
+        srcset="https://github-readme-stats-eight-xi-56.vercel.app/api?username=ally-ahmed&show_icons=true&theme=dark&bg_color=00000000"
         media="(prefers-color-scheme: dark)"
       />
       <source
@@ -21,7 +20,8 @@
     </picture>
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ally-ahmed)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ally-ahmed)](https://github.com/ally-ahmed)
 <!--
 **ally-ahmed/ally-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
