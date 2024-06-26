@@ -46,7 +46,18 @@
         <img height="30" width="40" alt="Instagram profile" src="./images/instagram.svg" />
       </picture>
   </a>
-  <a href="https://www.ahmedali.io/" target="_blank" alt="Blog"><img height="30" src="https://img.shields.io/badge/ahmedali.io-000?style=flat"/><a/>
+  <a href="https://www.ahmedali.io/" target="_blank" alt="Blog">
+      <picture>
+        <source
+          srcset="https://img.shields.io/badge/ahmedali.io-fff?style=flat"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://img.shields.io/badge/ahmedali.io-000?style=flat"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img height="30" src="https://img.shields.io/badge/ahmedali.io-000?style=flat"/><a/>
+      </picture>
 </div>
 
 <br />
