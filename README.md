@@ -81,8 +81,8 @@
 </div>
 <br />
 
+<h2 align="center">📊 Stats 📊</h2>
 <div align="center" style="display: flex; justify-content: center; column-gap: 0.375rem;"> 
-  <h2>📊 Stats 📊</h2>
   <a href="https://github.com/ally-ahmed">
       <picture>
         <source
