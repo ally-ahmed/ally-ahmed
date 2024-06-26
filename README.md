@@ -48,14 +48,14 @@
   <a>
       <picture>
         <source
-          srcset="https://streak-stats.demolab.com/?user=ally-ahmed&background=00000000&count_private=true&theme=react&border_radius=10"
+          srcset="https://streak-stats.demolab.com/?user=ally-ahmed&background=00000000&count_private=true&theme=react&border_radius=10&theme=react"
           media="(prefers-color-scheme: dark)"
         />
         <source
-          srcset="https://streak-stats.demolab.com/?user=ally-ahmed&background=00000000&count_private=true&border_radius=10"
+          srcset="https://streak-stats.demolab.com/?user=ally-ahmed&background=00000000&count_private=true&border_radius=10&theme=react"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img align="center" src="https://streak-stats.demolab.com/?user=ally-ahmed&background=00000000&count_private=true&border_radius=10" alt="Streak Stats"/>
+        <img align="center" src="https://streak-stats.demolab.com/?user=ally-ahmed&background=00000000&count_private=true&border_radius=10i&theme=react" alt="Streak Stats"/>
       </picture>
   </a>
 </div>
