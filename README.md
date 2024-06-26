@@ -82,6 +82,7 @@
 <br />
 
 <h2 align="center">📊 Stats 📊</h2>
+<br />
 <div align="center" style="display: flex; justify-content: center; column-gap: 0.375rem;"> 
   <a href="https://github.com/ally-ahmed">
       <picture>
