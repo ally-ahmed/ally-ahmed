@@ -7,6 +7,7 @@
 
 
 <div align="center" style="">
+  <h3>Let's connect</h3>
   <a href="https://x.com/ahmedaalliy" target="_blank">
       <picture >
         <source
@@ -64,6 +65,8 @@
 <br />
 
 <div align="center">
+    <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+    <br />
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,java,c,cpp,sqlite,postgres,mysql,mongodb,aws,cloudflare" />
     <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,tailwind,html,electron,qt,fastapi,express,flask,docker,git,bash,github" />
     <img src="https://skillicons.dev/icons?i=githubactions,neovim,vscode" />
