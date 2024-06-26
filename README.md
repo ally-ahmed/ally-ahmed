@@ -6,9 +6,46 @@
 <!-- <p><img align="right" src="https://komarev.com/ghpvc/?username=ally-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="ally-ahmed" /></p> -->
 
 <div align="center" style="">
-  <a href="https://x.com/ahmedaalliy" target="_blank"><img height="30" width="40" alt="Twitter profile" src="./images/twitter.svg" /></a>
-  <a href="https://www.linkedin.com/in/ahmedally/" target="_blank"><img height="30" width="40" alt="LinkedIn profile" src="./images/linkedin.svg" /></a>
-  <a href="https://www.instagram.com/_ahmedaalliy/" target="_blank" ><img height="30" width="40" alt="Instagram profile" src="./images/instagram.svg" /></a>
+  <a href="https://x.com/ahmedaalliy" target="_blank">
+      <picture >
+        <source
+          srcset="./images/x-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="./images/x-light.svg"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img height="30" width="40" alt="Twitter profile" src="./images/x-light.svg" />
+      </picture>
+  </a>
+
+  <a href="https://www.linkedin.com/in/ahmedally/" target="_blank">
+      <picture>
+        <source
+          srcset="./images/linkedin-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="./images/linkedin-light.svg"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img height="30" width="40" alt="LinkedIn profile" src="./images/linkedin.svg" />
+      </picture>
+  </a>
+  <a href="https://www.instagram.com/_ahmedaalliy/" target="_blank">
+      <picture>
+        <source
+          srcset="./images/instagram-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="./images/instagram-light.svg"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img height="30" width="40" alt="Instagram profile" src="./images/instagram.svg" />
+      </picture>
+  </a>
   <a href="https://www.ahmedali.io/" target="_blank" alt="Blog"><img height="30" src="https://img.shields.io/badge/ahmedali.io-000?style=flat"/><a/>
 </div>
 
