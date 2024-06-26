@@ -7,7 +7,6 @@
 
 
 <div align="center" style="">
-  <h3>Let's connect</h3>
   <a href="https://x.com/ahmedaalliy" target="_blank">
       <picture >
         <source
@@ -61,11 +60,10 @@
         <img height="30" src="https://img.shields.io/badge/ahmedali.io-000?style=flat"/><a/>
       </picture>
 </div>
-
 <br />
 
 <div align="center">
-    <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+    <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
     <br />
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,java,c,cpp,sqlite,postgres,mysql,mongodb,aws,cloudflare" />
     <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,tailwind,html,electron,qt,fastapi,express,flask,docker,git,bash,github" />
@@ -74,13 +72,17 @@
 <br />
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ally-ahmed/ally-ahmed/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ally-ahmed/ally-ahmed/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ally-ahmed/ally-ahmed/output/github-contribution-grid-snake.svg" />
-</picture>
+  <h2>🐍 My Contributions 🐍</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ally-ahmed/ally-ahmed/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ally-ahmed/ally-ahmed/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ally-ahmed/ally-ahmed/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
+<br />
+
 <div align="center" style="display: flex; justify-content: center; column-gap: 0.375rem;"> 
+  <h2>📊 Stats 📊</h2>
   <a href="https://github.com/ally-ahmed">
       <picture>
         <source
