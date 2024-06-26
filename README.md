@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Ahmed Ali
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,nodejs,c,cpp,sqlite,postgres,mysql,mongodb,aws,cloudflare" />
-    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,tailwind,html,electron,qt,fastapi,express,flask,docker,git,bash,github,githubactions,ai,neovim,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,java,c,cpp,sqlite,postgres,mysql,mongodb,aws,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,tailwind,html,electron,qt,fastapi,express,flask,docker,git,bash,github,githubactions,neovim,vscode" />
 </div>
 <br />
 
