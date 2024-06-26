@@ -2,7 +2,8 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,java,c,cpp,sqlite,postgres,mysql,mongodb,aws,cloudflare" />
-    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,tailwind,html,electron,qt,fastapi,express,flask,docker,git,bash,github,githubactions,neovim,vscode" />
+    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,tailwind,html,electron,qt,fastapi,express,flask,docker,git,bash,github" />
+    <img src="https://skillicons.dev/icons?i=githubactions,neovim,vscode" />
 </div>
 <br />
 
