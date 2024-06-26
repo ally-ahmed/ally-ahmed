@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=440&height=45&lines=Full-stack+developer;7+years+of+experience;Always+learning" alt="Typing SVG" /></a>
 </p>
 
-<!-- <p><img align="right" src="https://komarev.com/ghpvc/?username=ally-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="ally-ahmed" /></p> -->
+<p><img align="right" src="https://komarev.com/ghpvc/?username=ally-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="ally-ahmed" /></p>
 
 <div align="center" style="">
   <a href="https://x.com/ahmedaalliy" target="_blank">
