@@ -52,10 +52,10 @@
           media="(prefers-color-scheme: dark)"
         />
         <source
-          srcset="https://streak-stats.demolab.com/?user=ally-ahmed&background=00000000&count_private=true&border_radius=10&theme=transparent"
+          srcset="https://streak-stats.demolab.com/?user=ally-ahmed&background=00000000&count_private=true&border_radius=10"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img align="center" src="https://streak-stats.demolab.com/?user=ally-ahmed&background=00000000&count_private=true&border_radius=10&theme=transparent" alt="Streak Stats"/>
+        <img align="center" src="https://streak-stats.demolab.com/?user=ally-ahmed&background=00000000&count_private=true&border_radius=10" alt="Streak Stats"/>
       </picture>
   </a>
 </div>
