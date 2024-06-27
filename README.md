@@ -5,6 +5,16 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=440&height=45&lines=Full-stack+developer;7+years+of+experience;Always+learning" alt="Typing SVG" /></a>
 </p>
 
+<div align="center">
+ 
+ 🔭 I’m currently working on a **project starter template**
+ 
+ 🌱 I’m currently learning **Effect-ts, Deep Learning**
+
+💬 Ask me about **anything [here](https://github.com/ally-ahmed/ally-ahmed/issues)**
+
+</div>
+<br />
 
 <div align="center" style="">
   <a href="https://x.com/ahmedaalliy" target="_blank">
