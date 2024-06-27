@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi there 👋 I'm Ahmed Ali </h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=440&height=45&lines=Full-stack+developer;7+years+of+experience;Always+learning" alt="Typing SVG" /></a>
+  <a href="https://github.com/ally-ahmed"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=440&height=45&lines=Full-stack+developer;7+years+of+experience;Always+learning" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
