@@ -9,7 +9,7 @@
  
  🔭 I’m currently working on a **project starter template**
  
- 🌱 I’m currently learning **Effect-ts, Deep Learning, Next.js**
+ 🌱 I’m currently learning **Tanstack Start, Effect-ts**
 
 💬 Ask me about **anything [here](https://github.com/ally-ahmed/ally-ahmed/issues)**
 
